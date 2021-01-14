@@ -1,0 +1,11 @@
+@import '../../styles/vars';
+
+.header {
+    display: flex;
+    justify-content: center;
+    padding-bottom: ($gutter);
+
+    .logo{
+        width: 200px;
+    }
+}

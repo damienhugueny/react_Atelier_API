@@ -1,0 +1,10 @@
+@import 'reset';
+@import 'vars';
+
+a{
+    text-decoration: none ;
+}
+
+body{
+    background-color: $bg-color;
+}

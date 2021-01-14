@@ -1,0 +1,10 @@
+@import '../../styles/vars';
+
+.app {
+    font-family: $global-font;
+    font-weight:  $global-font-weight;
+    background-color: $alt-color;
+    width: 800px;
+    margin: 0 auto;
+    padding: ($gutter);
+}
